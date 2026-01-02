@@ -23,3 +23,11 @@ Output: Emotional concern / Advice request
 - Add NLP libraries
 - Integrate with LLM APIs
 - Improve intent detection accuracy
+## How it works
+- User inputs a relationship-related message
+- The system analyzes emotional tone and intent
+- Outputs a structured summary for AI advice systems
+
+## Tech Stack
+- Python
+- Rule-based NLP logic (beginner-friendly)
